@@ -16,6 +16,7 @@ void DoWhat(char[], int);
 int main(){
    
 //    Communication();
+    PID++;
     DoWhat("abc", 8);
     return 0;
 
